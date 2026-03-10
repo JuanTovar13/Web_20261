@@ -1,7 +1,10 @@
 import './App.css';
+import { DigimonList } from './components/DigimonList/DigimonList';
 
 function App() {
-	return <></>;
+	return <>
+	<DigimonList/>
+	</>;
 }
 
 export default App;
